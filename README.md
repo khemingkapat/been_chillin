@@ -7,5 +7,4 @@ This project featured in the CPE241 Database System, KMUTT
 - use any api tools(such as Postman) to test, I use port `:8080` for the api app
 
 # Functions
-## getContents
-to list all content available through `/contents` path
+- to list all content available through `/contents` path
